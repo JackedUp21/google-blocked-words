@@ -459,5 +459,9 @@ wop*
 yed
 zabourah
 
+# Credits
+[**Google Code Archive**](https://code.google.com/archive/p/badwordslist/downloads)
+
+
 
 # I Have No Idea Why I Did This
