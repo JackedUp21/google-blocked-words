@@ -1,4 +1,4 @@
-[**List of Blocked Words that get Instant Blacklisted**](https://code.google.com/archive/p/badwordslist/downloads)
+[**List of Blocked Words that get Instant Blacklisted on Google**](https://code.google.com/archive/p/badwordslist/downloads)
 
 ahole
 anus
