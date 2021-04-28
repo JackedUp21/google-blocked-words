@@ -1,3 +1,5 @@
+[**List of Blocked Words that get Instant Blacklisted**](https://code.google.com/archive/p/badwordslist/downloads)
+
 ahole
 anus
 ash0le
