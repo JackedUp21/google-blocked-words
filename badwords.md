@@ -462,5 +462,8 @@ yed
 zabourah
 
 
+
+[![OMEGALUL](https://emoji.gg/assets/emoji/9636-omegalul.png)](https://emoji.gg/emoji/9636-omegalul)
+
 # Credits
 [**Google Code Archive**](https://code.google.com/archive/p/badwordslist/downloads)
